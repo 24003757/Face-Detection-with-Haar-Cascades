@@ -178,17 +178,17 @@ plt.show()
 <img width="305" height="512" alt="image" src="https://github.com/user-attachments/assets/8d02e8f2-3922-409e-85ad-486109830a70" />
 
 ### Canny Edge Detection
-<img width="307" height="510" alt="image" src="https://github.com/user-attachments/assets/1b0a58a0-126c-44a0-8ea5-159b7ca9c193" />
+<img width="299" height="509" alt="image" src="https://github.com/user-attachments/assets/9f350ac8-b9f6-4802-ba0b-fd531d5e2ec3" />
 
 
 
 ### Handwriting Detection
-<img width="651" height="448" alt="image" src="https://github.com/user-attachments/assets/7c81c964-29b9-493e-b6c2-89b5dec8ca1b" />
+<img width="307" height="510" alt="image" src="https://github.com/user-attachments/assets/38bbf341-2c03-4402-9dc4-c4b882486d96" />
 
 
 ### Object Detection with MobileNet-SSD
 
-<img width="299" height="509" alt="image" src="https://github.com/user-attachments/assets/951842b9-25b5-422a-9cca-d3dcb5445bb9" />
+<img width="651" height="448" alt="image" src="https://github.com/user-attachments/assets/56d9d8c8-506b-4b15-acb8-ee142ee7f495" />
 
 
 ## RESULT
